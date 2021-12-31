@@ -1,0 +1,26 @@
+<body>
+  <div id="wrapper">
+    <div id="Task-editor">
+      <h2 id="Task-editor-title">Create Goals</h2>
+      <label>Title:</label>
+      <input type="text" id="title" name="title" />
+      <label>Body:</label>
+      <textarea rows="10" cols="42" id="message" name="message"></textarea>
+      <label>Color:</label>
+      <select id="color" name="color">
+        <option value="red" selected>Red</option>
+        <option value="green">Green</option>
+        <option value="blue">Blue</option>
+      </select>
+      <div id="button">
+        <button id="add-btn">Create New Goals</button>
+        <div id="error"></div>
+      </div>
+    </div>
+
+    <div id="Tasks-section">
+      <h2>Tasks</h2>
+      <ul id="Tasks"></ul>
+    </div>
+  </div>
+</body>
