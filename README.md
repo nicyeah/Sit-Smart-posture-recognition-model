@@ -8,8 +8,8 @@ Just click the link https://l.ead.me/sitsmart and enjoy:)
 4. Find health information from the Resources
 5. Get your posture analysis and professional advice (Sorry this function is not available now😢)
 
-# Find source code:
-Model: Sit-Smart-posture-recognition-model > posture recognition model
-Website: Sit-Smart-posture-recognition-model > Sit Smart website
-Feature 1: Task & reminders: Sit-Smart-posture-recognition-model > Task & Reminder app > task & reminders.html
-Feature 2: Games: Sit-Smart-posture-recognition-model > game > little game 2.html
+# Find our source code:
+1. Model: Sit-Smart-posture-recognition-model > posture recognition model
+2. Website: Sit-Smart-posture-recognition-model > Sit Smart website
+3. Feature 1: Task & reminders: Sit-Smart-posture-recognition-model > Task & Reminder app > task & reminders.html
+4. Feature 2: Games: Sit-Smart-posture-recognition-model > game > little game 2.html
