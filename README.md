@@ -1,6 +1,6 @@
 # Sit Smart
 # How to use Sit Smart?
-Just click the link https://l.ead.me/sitsmart and enjoy:)
+Just click the link https://admin-nic.wixsite.com/healthy-sitting and enjoy:)
 # What do Sit Smart do?
 1. Detect the sitting posture of the users and send out reminders when it detect an incorrect sitting posture
 2. Set up your own goals and stick to the goals!
