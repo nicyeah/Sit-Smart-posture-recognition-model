@@ -8,7 +8,7 @@ Just click the link https://admin-nic.wixsite.com/healthy-sitting and enjoy:)
 4. Find health information from the Resources
 5. Get your posture analysis and professional advice (Sorry this function is not available now😢)
 
-# Find our source code:
+# View our source code:
 1. ML Model: Sit-Smart-posture-recognition-model > posture recognition model
 2. Website: Sit-Smart-posture-recognition-model > Sit Smart website
 3. Feature 1: Task & reminders: Sit-Smart-posture-recognition-model > Task & Reminder app > task & reminders.html
